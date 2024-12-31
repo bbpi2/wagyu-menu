@@ -9,8 +9,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "wagyu-menu",
+    "title": "The Menu for 2025-01-04",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Disclaimer: Items on the menu are subject to change.\n\nThe Carbs\nTurkish bread with olive oil & assorted herbs.\nCreamy mashed potato.\nCrispy baked potato.\n\n\nThe Greens\nGreen salad with sesame oil dressing.\nBaked vegetables.\n\n\nThe Protein.\nLamb shoulder pot roast.\n\n\nThe Wagyu\n\nHida A5 Sirloin 600g 飛騨牛サーロイン\nKobe A5 Scotch Fillet 300g 神戸牛スコッチフィレ\nMayura MBS9+ Sirloin 300g"
+  },
+  {
+    "objectID": "index.html#the-bread",
+    "href": "index.html#the-bread",
+    "title": "The Menu",
+    "section": "The Bread",
+    "text": "The Bread\nTurkish bread with oil extracted from olives & assorted herbs.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\")"
   }
 ]
