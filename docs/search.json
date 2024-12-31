@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "The Menu for 2025-01-04",
     "section": "",
-    "text": "Disclaimer: Items on the menu are subject to change.\n\nThe Carbs\nTurkish bread with olive oil & assorted herbs.\nCreamy mashed potato.\nCrispy baked potato.\n\n\nThe Greens\nGreen salad with sesame oil dressing.\nBaked vegetables.\n\n\nThe Protein.\nLamb shoulder pot roast.\n\n\nThe Wagyu\n\nHida A5 Sirloin 600g 飛騨牛サーロイン\nKobe A5 Scotch Fillet 300g 神戸牛スコッチフィレ\nMayura MBS9+ Sirloin 300g"
+    "text": "Disclaimer: Items on the menu are subject to change. Keep expectations low.\n\nThe Carbs\nTurkish bread with olive oil & assorted herbs.\nCreamy mashed potato.\nCrispy baked potato.\n\n\nThe Greens\nGreen salad with sesame oil dressing.\nBaked vegetables.\n\n\nThe Protein\nLamb shoulder pot roast.\n\n\nThe Wagyu\n\nHida A5 Sirloin 600g 飛騨牛サーロイン\nKobe A5 Scotch Fillet 300g 神戸牛スコッチフィレ\nMayura MBS9+ Sirloin 300g\nEye fillet (or smth idk)\n\n\n\n\n\n\n\n\nThe Dessert\nidk 🤷‍♂️\n\n\nThe Drinks\nDassai 23 Junmai Daijingo 獺祭２３純米大吟醸　(approx. 50% remaining)\nBon Tsuya Junmai Daijingo 梵艶純米大吟醸\nOther drinks (probably)\n\nDassaiBon"
   },
   {
     "objectID": "index.html#the-bread",
@@ -19,5 +19,26 @@
     "title": "The Menu",
     "section": "The Bread",
     "text": "The Bread\nTurkish bread with oil extracted from olives & assorted herbs.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\")"
+  },
+  {
+    "objectID": "index.html#dassai",
+    "href": "index.html#dassai",
+    "title": "The Menu for 2025-01-04",
+    "section": "Dassai",
+    "text": "Dassai"
+  },
+  {
+    "objectID": "index.html#bon",
+    "href": "index.html#bon",
+    "title": "The Menu for 2025-01-04",
+    "section": "Bon",
+    "text": "Bon"
+  },
+  {
+    "objectID": "index.html#s",
+    "href": "index.html#s",
+    "title": "The Menu for 2025-01-04",
+    "section": "s",
+    "text": "s"
   }
 ]
