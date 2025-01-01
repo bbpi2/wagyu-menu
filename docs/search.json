@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Menu for 2025-01-04",
-    "section": "",
-    "text": "Figure 1: Your expectations of this meal.\n\n\nDisclaimer: Items on the menu are subject to change.\n\nThe Carbs\nTurkish bread with olive oil & assorted herbs.\nCreamy mashed potato.\nCrispy baked potato.\n\n\nThe Greens\nGreen salad with sesame oil dressing.\nBaked vegetables.\n\n\nThe Protein\nLamb shoulder pot roast.\n\n\nThe Wagyu\n\nHida A5 Sirloin 600g 飛騨牛サーロイン\nKobe A5 Scotch Fillet 300g 神戸牛スコッチフィレ\nFurano A5 Sirloin 300g 富良野牛サーロイン\nFurano A5 Scotch Fillet 300g　富良野スコッチフィレ\nMayura MBS9+ Sirloin 300g\nEye fillet (or smth idk)\n\n\n\n\n\n\n\n\nThe Dessert\nidk 🤷‍♂️\n\n\nThe Drinks\nDassai 23 Junmai Daijingo 獺祭２３純米大吟醸　(approx. 50% remaining)\nBon Tsuya Junmai Daijingo 梵艶純米大吟醸\nOther drinks (probably)\n\nDassaiBon"
-  },
-  {
-    "objectID": "index.html#the-bread",
-    "href": "index.html#the-bread",
-    "title": "The Menu",
-    "section": "The Bread",
-    "text": "The Bread\nTurkish bread with oil extracted from olives & assorted herbs.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\")"
-  },
-  {
-    "objectID": "index.html#dassai",
-    "href": "index.html#dassai",
-    "title": "The Menu for 2025-01-04",
-    "section": "Dassai",
-    "text": "Dassai"
-  },
-  {
-    "objectID": "index.html#bon",
-    "href": "index.html#bon",
-    "title": "The Menu for 2025-01-04",
-    "section": "Bon",
-    "text": "Bon"
-  },
-  {
-    "objectID": "index.html#s",
-    "href": "index.html#s",
-    "title": "The Menu for 2025-01-04",
-    "section": "s",
-    "text": "s"
-  },
-  {
     "objectID": "preparation.html",
     "href": "preparation.html",
     "title": "Preparation",
@@ -68,5 +26,12 @@
     "title": "Preparation",
     "section": "Recipe Ingredients",
     "text": "Recipe Ingredients\n\nTurkish Bread\n\n1-2 slabs of turkish bread\nOlive oil\nHerbs (what should we use?)\n\n\n\nMashed potato\n\nNeed to find a lactose free option?\n\n\n\nRoasted potato\n\nPotato\nNeutral oil\nBaking soda\nA nicer salt?\nParsley/whatever herbs goes with chips\n\n\n\nGreen salad\n\nLarge bag of 4 leaf salad\nCherry tomato\nWalnuts\nSesame dressing\n\n\n\nRoasted veggies\n\nAssortment of: Carrot, Mushroom, Zucchini, Sweet potato, pumpkin, eggplant\nHerbs: Thyme, Sage (skippable), Parsley\n\n\n\nLamb shoulder\n\nLamb shoulder (probably butcher)\nGarlic & Onion infused oil\nChicken Stock\nTomato paste\nCarrot\nPotato\nCorn starch\nHerbs: Cumin, Fennel, Rosemary, Thyme, Bay leaves"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Menu for 2025-01-04",
+    "section": "",
+    "text": "Figure 1: Your expectations of this meal.\n\n\nDisclaimer: Items on the menu are subject to change.\n\nThe Carbs\nTurkish bread with olive oil & herbs\nCreamy mashed potato\nCrispy baked potato\n\n\nThe Greens\nLeafy salad with cherry tomato, walnuts & sesame dressing\nBaked vegetables\n\n\nThe Protein\nLamb shoulder pot roast\n\n\nThe Wagyu\n\nHida A5 Sirloin 600g 飛騨牛サーロイン\nKobe A5 Scotch Fillet 300g 神戸牛スコッチフィレ\nFurano A5 Sirloin 300g 富良野牛サーロイン\nFurano A5 Scotch Fillet 300g　富良野スコッチフィレ\nMayura MBS9+ Sirloin 300g\nAssorted eye fillet\n\n\n\n\n\n\n\n\nThe Dessert\nTiramisu\n\n\nThe Drinks\nDassai 23 Junmai Daijingo 獺祭２３純米大吟醸　(approx. 50% remaining)\nBon Tsuya Junmai Daijingo 梵艶純米大吟醸\nOther drinks (probably)\n\nDassaiBon"
   }
 ]
